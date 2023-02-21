@@ -1,13 +1,32 @@
-# Ethical Hackers
-
-Our Ethical Hackers think and operate as true threat actors, with a true Offensive Security mindset.
+# Offensive Security:  
 
 ## The Team
-Whether it's conducting penetration tests on the products or services or planning and executing phishing campaigns to test our operational security, this team is always focused on increasing our security posture.\
-With backgrounds from Software Developers to Nation-State Security, they are a team that is well equipped to help us remediate vulnerabilities and stay ahead of the growing threat landscape. 
+
+We understand we are a target, you don’t move millions of capital daily without attracting some attention, this is where our offensive security team come in. Split into two designated areas; Pentesting and Red Teaming, this team are focused on testing and pushing the boundaries of what our security units can achieve. With our team of 5 in-house OffSec Engineers, we aim to put our security function through simulated-attacks that rival the most sophisticated APT groups.   
+
+* Conducting Penetration Tests across the entire estate on both new and existing products, using external testing for audit purposes only, this team are the go-to for ensure our services are meeting our standards.  
+
+* Devising plans, scoping, creating and executing advanced Red Team operations, including custom malware and C2 development.  
+
+* Researching and developing new attack methods on cutting edge technology to increase the bar for security within Form3.  
 
 
-## The role
-Here are some of the exciting key projects/workloads our Ethical Hackers take on: 
-- Working with the Software and Security Engineers conducting penetration tests across the SDLC and our cloud-native platform.
-- Scoping and conducting Red Team engagements to challenge our security posture.
+## Examples of Projects within Form3
+
+Aim to showcase the projects we can share. 
+
+
+## Team Testimonies
+
+### Head of Offensive Engineering: 
+
+//Daniel's comments to be inserted here. 
+
+### Senior/ Lead Offensive Security Engineer: 
+
+//TBD's comments to be inserted here. 
+
+
+## Blogs, Videos and more! 
+
+[Phising with GitHub](https://www.form3.tech/engineering/content/phishing-github) 
