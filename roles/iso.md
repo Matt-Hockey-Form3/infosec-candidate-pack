@@ -1,19 +1,27 @@
 # Information Security Officers(ISOs)
-
-Our Information Security Officers are key to our success. They are also one of the most established teams within Form3.
-
 ## The Team
+Far from the average GRC function, our team of skilled individuals in InfoSec navigate us through a range of Security Frameworks to ensure compliance internally and externally, manage the Cryptography at Form3, and review all new and existing architectures at all stages of development. This team of 13 InfoSec Officers are at the pinnacle of payment security. 
 
-This is a challenging, broad role that offers you the chance to gain exposure to some of the world's largest financial institutions.\
-Our ISOs come from different walks of security pathways from
-military engineers to leading security consultants.\
-Our ISO team offers you the chance to learn from some of the best in the industry, while bringing your unique skill-set to the evolving table of Form3. 
+* Researching and strategizing the compilatory requirements of new locations Form3 will be moving into, mapping current controls to new frameworks and working with engineering to define new ones.  
+
+* Managing the audits both internally and externally with our auditors encompassing; ISO27001, SOC1/2, GDPR, PCI-DSS and ISAE3000 to name a few. Collecting and presenting evidence prior to and through out, then actioning recommendations with the wider security team and business to further Form3's Risk Management roadmap.  
+
+* Maintaining the PKI infrastructure and managing the key change process with a range of clients, including Tier 1 Banks through to start-ups.  
+
+## Example of projects within Form3: 
+
+Aim to showcase the projects we can here
+
+## Team Testimonials: 
+### Head of Information Security: 
+
+//Mark's comments to be inserted here. 
+
+### Senior/ Lead Information Security Officers: 
+
+//TBD's comments to be inserted here. 
+
+## Blogs, Videos and more! 
+Check out more content from our team below: 
 
 
-## The role
-Here are some of the exciting key projects/workloads our ISOs take on: 
-- Responding to and actioning alerts from our SIEM tools and managing the vulnerability management processes alongside the engineers.
-- Managing and implementing security tools that will be managed by the ISOs, for example; IPS/IDS and DLP systems.
-- Developing and reviewing Form3's Risk Management processes to ensure that we are still compliant and secure according to various frameworks including; ISO27001, GDPR, SOC1 and SOC2, PCI-DSS and ISAE3000. 
-- Working with third-party auditors for both framework and pentest reviews. 
-- Liaising with both existing and new clients to ensure not only that the client is happy with our controls and security but we are happy with theirs as well.
